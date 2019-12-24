@@ -1,0 +1,5 @@
+{
+  "env": {
+    "ANT_DESIGN_TOKEN": "@ant_design_token"
+  }
+}
