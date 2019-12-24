@@ -114,6 +114,7 @@ class Login extends Component<LoginProps, LoginState> {
   };
 
   render() {
+    console.log('ANT_DESIGN_TOKEN:', ANT_DESIGN_TOKEN);
     const { className, children } = this.props;
     const { type, tabs = [] } = this.state;
     const TabChildren: any[] = [];
