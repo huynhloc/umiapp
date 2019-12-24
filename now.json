@@ -1,5 +1,8 @@
 {
-  "env": {
-    "ANT_DESIGN_TOKEN": "@ant_design_token"
+  "build": {
+    "env": {
+      "MY_SECRET": "secret value",
+      "ANT_DESIGN_TOKEN": "@ant_design_token"
+    }
   }
 }
